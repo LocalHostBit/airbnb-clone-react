@@ -1,0 +1,18 @@
+.banner {
+    background: url("https://a0.muscache.com/im/pictures/18084f37-67e0-400f-bfd8-55eea0e89508.jpg?im_w=960");
+    height: 60vh;
+    position: relative;
+}
+
+.banner__info {
+    width: 400px;
+    padding-top: 60px;
+    margin-left: 30px;
+    color: white;
+}
+
+.banner__info > button {
+    background-color: white;
+    font-size: 10px;
+    font-weight: 700;
+}
